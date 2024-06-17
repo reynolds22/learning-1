@@ -1,0 +1,33 @@
+.container{
+    border: 2px solid lightgrey;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    margin: 10px auto;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container h1{
+    margin: 10px 0 20px;
+}
+
+.container div p{
+    font-weight: 500;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container input{
+    width: 30%;
+    margin: 20px 0 10px;
+    padding: 10px;
+}
+
+.container button{
+    width: 34%;
+    margin: 0 0 10px;
+    padding: 10px;
+}
